@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-12-25 08:26:54 --> 404 Page Not Found: Images/customer
+ERROR - 2021-12-25 08:26:58 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:27:08 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:27:12 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:27:25 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:28:18 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:28:25 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:28:37 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:28:56 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:29:03 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:29:15 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:29:44 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:29:52 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:30:04 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:30:34 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:30:41 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:30:53 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:31:10 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:31:16 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:31:28 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:31:45 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:31:51 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:32:06 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:32:36 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:32:43 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:32:55 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:33:26 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:33:34 --> 404 Page Not Found: Service-workerjs/index
+ERROR - 2021-12-25 08:33:47 --> 404 Page Not Found: Service-workerjs/index
